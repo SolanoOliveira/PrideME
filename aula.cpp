@@ -29,6 +29,4 @@ stbi_write_png("output.jpg",width,height,4,img,4 * width);
 
 stbi_image_free(img);
 
-
-
 }
