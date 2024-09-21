@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/813bcc79-cbe2-4e79-af21-197dea87ddbc" alt="output_cpu_lgbt" width="300"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/813bcc79-cbe2-4e79-af21-197dea87ddbc" alt="output_cpu_lgbt" width="300"/>
+</div>
+
 
 # PrideME
 
