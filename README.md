@@ -38,6 +38,9 @@ sudo apt-get install g++
 
 Navegue até o diretório do projeto:
 
+```bash
 nvcc -o image_filter aula.cu -lstdc++
+./aula
+```
 
 voce pode trocar a imagem no proprio codigo, lembre-se de por na pasta antes
